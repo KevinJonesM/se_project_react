@@ -1,0 +1,82 @@
+{
+  "items": [
+    {
+      "_id": "2",
+      "name": "Shorts",
+      "link": "https://riparipa.com/cdn/shop/products/COSTUME_APPESO2_web--13_900x.jpg?v=1680114897",
+      "weather": "hot"
+    },
+    {
+      "_id": "3",
+      "name": "Cardigan",
+      "link": "https://static.zara.net/assets/public/372e/f439/8d3242f7b572/c102147adcb7/08281379403-e1/08281379403-e1.jpg?ts=1743693192511&w=1024",
+      "weather": "warm"
+    },
+    {
+      "_id": "4",
+      "name": "Jean Jacket",
+      "link": "https://thursdayboots.com/cdn/shop/products/1024x1024-Mens-Jackets-Denim-Trucker-WashedIndigo-123022-Open.jpg?v=1673282165&width=816",
+      "weather": "cold"
+    },
+    {
+      "_id": "5",
+      "name": "Windbreaker",
+      "link": "https://leehanton.com/cdn/shop/files/Men_s_Windbreaker_jackets-red.webp?v=1733126070&width=600",
+      "weather": "cold"
+    },
+    {
+      "_id": "6",
+      "name": "Guayabera",
+      "link": "https://dandydelmar.com/cdn/shop/files/Dandy-Del-Mar-Dominica-Shirt-Crochet-Button-Front-Shirt-Men-Arbequina-Green-1.jpg?v=1705109136&width=800",
+      "weather": "warm"
+    },
+    {
+      "_id": "0d0f",
+      "name": "Jeans Pants",
+      "link": "https://i5.walmartimages.com/seo/Funicet-Men-Jeans-Pants-Men-s-Side-Pocket-Trousers-with-Zipper-Placket-Skinny-Jeans-Blue-3XL_9baa02ae-05bc-4d00-9d65-272b473caad4.e0362770e95c80ccd2e9636f1a0a656b.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "weather": "cold"
+    },
+    {
+      "_id": "c3e7",
+      "name": "Fleece Sweater",
+      "link": "https://i5.walmartimages.com/seo/FAOWME-Boys-Girls-Lined-Long-Sleeve-Hoodie-Kids-Warm-Winter-Hoodies-Pullover-Hooded-Sweatshirt-Yellow-11-12-Years_962c0aff-43f1-405a-b1cf-9ab7b40a00df.89fa9fa44d2d6fa92c855c1d3333e397.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF",
+      "weather": "warm"
+    },
+    {
+      "_id": "8bb5",
+      "name": "Jacket",
+      "link": "https://image.s5a.com/is/image/saksoff5th/0400022480712_GREEN?dpr=on,2",
+      "weather": "cold"
+    },
+    {
+      "_id": "af3b",
+      "name": "Shirt",
+      "link": "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw271a7dfd/images/zoom/G5IF1THI1SV_IN3TN_0.jpg",
+      "weather": "warm"
+    },
+    {
+      "_id": "b0ec",
+      "name": "Shirt",
+      "link": "https://www.dolcegabbana.com/dw/image/v2/BKDB_PRD/on/demandware.static/-/Sites-15/default/dw33417ef2/images/zoom/G5NH6TFPFSQ_HA5PP_0.jpg",
+      "weather": "hot"
+    },
+    {
+      "_id": "d000",
+      "name": "Shirt",
+      "link": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI710971212001_lifestyle?$rl_4x5_zoom$",
+      "weather": "warm"
+    },
+    {
+      "_id": "c75a",
+      "name": "Cap",
+      "link": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-1478247_lifestyle?$rl_1x1_pdp$",
+      "weather": "hot"
+    },
+    {
+      "_id": "b163",
+      "name": "Shirt",
+      "link": "https://media.bergdorfgoodman.com/f_auto,q_auto/01/bg_4988447_100714_m",
+      "weather": "hot"
+    }
+  ]
+}

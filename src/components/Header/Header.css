@@ -18,15 +18,15 @@
 }
 
 .header__add-clothes-btn{
-    margin: 0 20px 0 auto;
+    margin: 0 20px 0 0;
     font-family: 'Cabinet Grotesk Regular', Arial, sans-serif;
     font-weight: 700;
     font-size: 20px;
     line-height: 24px;
-    letter-spacing: 0%;
     border: none;
     background: none;
     cursor: pointer;
+    padding: 0;
 }
 
 .header__user-container{
@@ -54,4 +54,13 @@
     height: 40;
     left: 1320px;
     border-width: 1px;
+}
+
+.header__logo-link,
+.header__user-container {
+  text-decoration: none;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  gap: 8px;
 }

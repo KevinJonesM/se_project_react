@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import "./ItemModal.css";
 import Closebuttonwhite from "../../assets/Closebuttonwhite.svg";
 
-function ItemModal({ item, onClose }) {
+function ItemModal({ item, onClose, onCardDelete }) {
   if (!item) return null;
 
   useEffect(() => {
@@ -28,13 +28,22 @@ function ItemModal({ item, onClose }) {
         <button className="modal__close" onClick={onClose} aria-label="Close modal">
           <img src={Closebuttonwhite} alt="Close" className="modal__close-icon" />
         </button>
+
         <img
           src={item.link}
           alt={item.name}
           className="modal__preview-image"
         />
-        <h2 className="modal__preview-title">{item.name}</h2>
-        <p className="modal__preview-weather">Weather: {item.weather}</p>
+
+        <div className="modal__preview-header">
+          <div className="modal__preview-text">
+            <h2 className="modal__preview-title">{item.name}</h2>
+            <p className="modal__preview-weather">Weather: {item.weather}</p>
+          </div>
+          <button className="modal__delete-button" onClick={() => onCardDelete(item)}>
+            Delete item
+          </button>
+        </div>
       </div>
     </div>
   );
